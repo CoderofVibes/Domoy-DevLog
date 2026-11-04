@@ -50,7 +50,7 @@ Domoy is a solo project, built in the evenings and on weekends around a day job 
 - **Engine:** Unreal Engine 5
 - **Art:** Blender, MetaHuman, motion capture
 - **Combat:** squad companions you can give orders to, and German soldiers who flank, suppress, push and fall back, with no cheating and no wallhacks.
-- **Cerebro:** my own 3D combat replay lab. Every playtest is recorded and can be replayed as a hologram, so I can see exactly why a fight went the way it did.
+- **[Cerebro](https://github.com/CoderofVibes/Cerebro):** my own 3D combat replay lab. Every playtest is recorded and can be replayed as a hologram, so I can see exactly why a fight went the way it did.
 
 ### A note on voices
 
@@ -72,6 +72,7 @@ This repo is a **dev log and showcase only**. The game's source isn't public.
 
 - **X:** [@CoderofVibes](https://x.com/CoderofVibes)
 - **Steam:** *wishlist coming soon*
+- **Cerebro:** [the combat lab behind the fights](https://github.com/CoderofVibes/Cerebro)
 
 ---
 
